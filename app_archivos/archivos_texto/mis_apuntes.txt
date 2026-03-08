@@ -1,0 +1,2 @@
+hola!
+Este es ek contenido del archivo de texto"mis_apuntes.txt" que caraga la aplicacion
